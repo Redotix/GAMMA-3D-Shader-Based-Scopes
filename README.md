@@ -1,7 +1,9 @@
 # GAMMA-3D-Shader-Based-Scopes
 A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
 
-<h1><u> Overview </u></h1>
+<h1><u> Dependencies </u></h1>
+
+<h1><u> Downloads </u></h1>
 
 <br><a href="url">3DSS for GAMMA</a>
 <br><a href="url">3DSS for BAS22</a>
@@ -27,3 +29,7 @@ A collection of mods that add 3D Shader Based scope support to GAMMA weapons and
 <br><a href="url">3DSS for EFP MK47 Reanimation</a>
 <br><a href="url">3DSS for TCWP RPK16</a>
 <br><a href="url">3DSS for FG42</a>
+
+<h1><u> Install Guide </u></h1>
+
+<h1><u> Experimental Versions </u></h1>
