@@ -2,6 +2,8 @@
 A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
 
 <h1><u> Dependencies </u></h1>
+<br><a href="https://drive.google.com/file/d/19tHFE6SD6_5X1XCRTlLXL08MrbXfzWf3/view?usp=drive_link">Mark Switch ver Meowie</a>
+<br><a href="https://github.com/Redotix/xray-monolith/releases">Current test EXEs for working grass, lighting and particles</a>
 
 <h1><u> Downloads </u></h1>
 
