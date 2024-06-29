@@ -5,7 +5,7 @@ A collection of mods that add 3D Shader Based scope support to GAMMA weapons and
 
 <h1><u> Downloads </u></h1>
 
-<br><a href="[url](https://github.com/Redotix/3DSS-for-GAMMA/releases)">3DSS for GAMMA</a>
+<br><a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a>
 <br><a href="url">3DSS for BAS22</a>
 <br><a href="url">3DSS for No AK folding Stocks</a>
 <br><a href="url">3DSS for ATHI WEAPONS</a>
