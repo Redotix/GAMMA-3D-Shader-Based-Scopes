@@ -15,10 +15,9 @@ You need these for 3DSS to work.
   This is the main mod, this one always needs to be installed.
 
 <h2><u>Compatibility mods</u></h2>
-These add 3DSS compatibility for other mods, you need the original mods to use these.
-<br>
+These add 3DSS compatibility for other mods, you need the original mods to use these.<br>
 <ul>
-  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a><a style="text-align:center" href="url">Original mod</a></li>
   <li><a href="url">3DSS for No AK folding Stocks</a> ➡ <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for ATHI WEAPONS</a> ➡ <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for LEWD FAMAS</a> ➡ <a href="url">Original mod</a></li>
@@ -44,8 +43,7 @@ These add 3DSS compatibility for other mods, you need the original mods to use t
 </ul>
 
 <h2><u>Standalone mods</u></h2>
-These are weapon mods that aleady have 3DSS built in.
-<br>
+These are weapon mods that aleady have 3DSS built in.<br>
 <ul>
   <li><a href="url">TX-15 Reanimation</a></li>
   <li><a href="url">M4 Skryaga Reanimation</a></li>
