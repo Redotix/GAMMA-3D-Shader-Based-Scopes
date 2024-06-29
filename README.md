@@ -17,7 +17,7 @@ You need these for 3DSS to work.
 <h2><u>Compatibility mods</u></h2>
 <p>These add 3DSS compatibility for other mods, you need the original mods to use these.</p><br />
 <ul>
-  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a> --> <a href="https://drive.google.com/file/d/1GV6Ris668vG91IyYJaoLTT7CDGbqMH81/view?usp=drive_link">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a> --> <a href="https://drive.google.com/drive/folders/1uuyEiBEj-DLXJinkbM23B8kZSNvzMUui">Original mod</a></li>
   <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">3DSS for No AK folding Stocks</a> --> <a href="https://drive.google.com/file/d/1QGQsADF3TswOLS1T40k7WWYG2vFSdNsa/view?usp=drive_link">Original mod</a></li>
   <li><a href="url">3DSS for ATHI WEAPONS</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for LEWD FAMAS</a> --> <a href="url">Original mod</a></li>
