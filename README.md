@@ -13,7 +13,7 @@ You need these for 3DSS to work.
 
 <ul>
   <li><a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a></li>
-  <li><a href="url">3DSS for BAS22</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a></li>
   <li><a href="url">3DSS for No AK folding Stocks</a></li>
   <li><a href="url">3DSS for ATHI WEAPONS</a></li>
   <li><a href="url">3DSS for LEWD FAMAS</a></li>
