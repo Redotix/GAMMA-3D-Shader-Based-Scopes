@@ -37,11 +37,8 @@ You need these for 3DSS to work.
   <li><a href="url">3DSS for juan Guns</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for GS AA12, AK101, AK103 BP, Gauss</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Milkor Granade Lanucher</a> --> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for MP412 Rex</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Howa20</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Phant0m's AKs</a> --> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for Aud A3 Custom Replacement</a> --> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for Silenced SV98</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for EFP Weapons</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for M14 & Ultima Reanimation</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for EFP MK47 Reanimation</a> --> <a href="url">Original mod</a></li>
@@ -55,7 +52,9 @@ You need these for 3DSS to work.
   <li><a href="url">TX-15 Reanimation</a></li>
   <li><a href="url">M4 Skryaga Reanimation</a></li>
   <li><a href="url">M4A1 Siber Reanimation</a></li>
-  <li><a href="url">3DSS Re-enabled guns</a></li>
+  <li><a href="url">3DSS for MP412 Rex</a></li>
+  <li><a href="url">3DSS for Aug A3 Replacement</a></li>
+  <li><a href="url">3DSS for Silenced SV98</a></li>
 </ul>
 
 <h1><u> Install Guide </u></h1>
