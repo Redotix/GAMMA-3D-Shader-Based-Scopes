@@ -18,14 +18,14 @@ You need these for 3DSS to work.
 These add 3DSS compatibility for other mods, you need the original mods to use these.
 <br>
 <ul>
-  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a> -> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for No AK folding Stocks</a> -> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for ATHI WEAPONS</a> -> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for LEWD FAMAS</a> -> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for Retro's , CR7, RFB</a> -> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for Sig Spear</a> -> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for SR25 EFT</a> -> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for TCWP MK47 & MP155</a> -> <a href="url">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for No AK folding Stocks</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for ATHI WEAPONS</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for LEWD FAMAS</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Retro's , CR7, RFB</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Sig Spear</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for SR25 EFT</a> ➡ <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for TCWP MK47 & MP155</a> ➡ <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Vanilla Reanimated Guns</a> -> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Re-enabled guns</a> -> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for juan Guns</a> -> <a href="url">Original mod</a></li>
