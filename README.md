@@ -1,6 +1,13 @@
 # GAMMA-3D-Shader-Based-Scopes
 A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
 
+<h2>Credits</h2>
+Andtheherois - creating all these packs<br/>
+Party50 - creating the original 3DSS mod<br/>
+NLTP_ASHES- creating the lense hiding script<br/>
+LVuter - massive help with EXE edits and Shaders<br/>
+Redotix - EXE edits<br/>
+
 <h1><u> Dependencies </u></h1>
 You need these for 3DSS to work.
 <ol>
