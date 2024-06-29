@@ -9,30 +9,32 @@ You need these for 3DSS to work.
 
 <h1><u> Downloads </u></h1>
 
-<br><a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a>
-<br><a href="url">3DSS for BAS22</a>
-<br><a href="url">3DSS for No AK folding Stocks</a>
-<br><a href="url">3DSS for ATHI WEAPONS</a>
-<br><a href="url">3DSS for LEWD FAMAS</a>
-<br><a href="url">3DSS for Retro's , CR7, RFB</a>
-<br><a href="url">3DSS for Sig Spear</a>
-<br><a href="url">3DSS for SR25 EFT</a>
-<br><a href="url">3DSS for TCWP MK47 & MP155</a>
-<br><a href="url">3DSS for Vanilla Reanimated Guns</a>
-<br><a href="url">3DSS for Re-enabled guns</a>
-<br><a href="url">3DSS for juan Guns</a>
-<br><a href="url">3DSS for GS AA12, AK101, AK103 BP, Gauss</a>
-<br><a href="url">3DSS for Milkor Granade Lanucher</a>
-<br><a href="url">3DSS for MP412 Rex</a>
-<br><a href="url">3DSS for Howa20</a>
-<br><a href="url">3DSS for Phant0m's AKs</a>
-<br><a href="url">3DSS for Aud A3 Custom Replacement</a>
-<br><a href="url">3DSS for Silenced SV98</a>
-<br><a href="url">3DSS for EFP Weapons</a>
-<br><a href="url">3DSS for M14 & Ultima Reanimation</a>
-<br><a href="url">3DSS for EFP MK47 Reanimation</a>
-<br><a href="url">3DSS for TCWP RPK16</a>
-<br><a href="url">3DSS for FG42</a>
+<ul>
+  <li><a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a></li>
+  <li><a href="url">3DSS for BAS22</a></li>
+  <li><a href="url">3DSS for No AK folding Stocks</a></li>
+  <li><a href="url">3DSS for ATHI WEAPONS</a></li>
+  <li><a href="url">3DSS for LEWD FAMAS</a></li>
+  <li><a href="url">3DSS for Retro's , CR7, RFB</a></li>
+  <li><a href="url">3DSS for Sig Spear</a></li>
+  <li><a href="url">3DSS for SR25 EFT</a></li>
+  <li><a href="url">3DSS for TCWP MK47 & MP155</a></li>
+  <li><a href="url">3DSS for Vanilla Reanimated Guns</a></li>
+  <li><a href="url">3DSS for Re-enabled guns</a></li>
+  <li><a href="url">3DSS for juan Guns</a></li>
+  <li><a href="url">3DSS for GS AA12, AK101, AK103 BP, Gauss</a></li>
+  <li><a href="url">3DSS for Milkor Granade Lanucher</a></li>
+  <li><a href="url">3DSS for MP412 Rex</a></li>
+  <li><a href="url">3DSS for Howa20</a></li>
+  <li><a href="url">3DSS for Phant0m's AKs</a></li>
+  <li><a href="url">3DSS for Aud A3 Custom Replacement</a></li>
+  <li><a href="url">3DSS for Silenced SV98</a></li>
+  <li><a href="url">3DSS for EFP Weapons</a></li>
+  <li><a href="url">3DSS for M14 & Ultima Reanimation</a></li>
+  <li><a href="url">3DSS for EFP MK47 Reanimation</a></li>
+  <li><a href="url">3DSS for TCWP RPK16</a></li>
+  <li><a href="url">3DSS for FG42</a></li>
+</ul>
 
 <h1><u> Install Guide </u></h1>
 
