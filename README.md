@@ -11,31 +11,46 @@ You need these for 3DSS to work.
 
 <h1><u> Downloads </u></h1>
 
+  <a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a>
+  This is the main mod, this one always needs to be installed.
+
+<h2><u>Compatibility mods</u></h2>
+These add 3DSS compatibility for other mods, you need the original mods to use these.
+
 <ul>
-  <li><a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a></li>
-  <li><a href="url">3DSS for No AK folding Stocks</a></li>
-  <li><a href="url">3DSS for ATHI WEAPONS</a></li>
-  <li><a href="url">3DSS for LEWD FAMAS</a></li>
-  <li><a href="url">3DSS for Retro's , CR7, RFB</a></li>
-  <li><a href="url">3DSS for Sig Spear</a></li>
-  <li><a href="url">3DSS for SR25 EFT</a></li>
-  <li><a href="url">3DSS for TCWP MK47 & MP155</a></li>
-  <li><a href="url">3DSS for Vanilla Reanimated Guns</a></li>
-  <li><a href="url">3DSS for Re-enabled guns</a></li>
-  <li><a href="url">3DSS for juan Guns</a></li>
-  <li><a href="url">3DSS for GS AA12, AK101, AK103 BP, Gauss</a></li>
-  <li><a href="url">3DSS for Milkor Granade Lanucher</a></li>
-  <li><a href="url">3DSS for MP412 Rex</a></li>
-  <li><a href="url">3DSS for Howa20</a></li>
-  <li><a href="url">3DSS for Phant0m's AKs</a></li>
-  <li><a href="url">3DSS for Aud A3 Custom Replacement</a></li>
-  <li><a href="url">3DSS for Silenced SV98</a></li>
-  <li><a href="url">3DSS for EFP Weapons</a></li>
-  <li><a href="url">3DSS for M14 & Ultima Reanimation</a></li>
-  <li><a href="url">3DSS for EFP MK47 Reanimation</a></li>
-  <li><a href="url">3DSS for TCWP RPK16</a></li>
-  <li><a href="url">3DSS for FG42</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for No AK folding Stocks</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for ATHI WEAPONS</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for LEWD FAMAS</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Retro's , CR7, RFB</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Sig Spear</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for SR25 EFT</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for TCWP MK47 & MP155</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Vanilla Reanimated Guns</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Re-enabled guns</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for juan Guns</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for GS AA12, AK101, AK103 BP, Gauss</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Milkor Granade Lanucher</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for MP412 Rex</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Howa20</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Phant0m's AKs</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Aud A3 Custom Replacement</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for Silenced SV98</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for EFP Weapons</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for M14 & Ultima Reanimation</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for EFP MK47 Reanimation</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for TCWP RPK16</a>     <a href="url">Original mod</a></li>
+  <li><a href="url">3DSS for FG42</a>     <a href="url">Original mod</a></li>
+</ul>
+
+<h2><u>Standalone mods</u></h2>
+These are weapon mods that aleady have 3DSS built in.
+
+<ul>
+  <li><a href="url">TX-15 Reanimation</a></li>
+  <li><a href="url">M4 Skryaga Reanimation</a></li>
+  <li><a href="url">M4A1 Siber Reanimation</a></li>
+  <li><a href="url">3DSS Re-enabled guns</a></li>
 </ul>
 
 <h1><u> Install Guide </u></h1>
