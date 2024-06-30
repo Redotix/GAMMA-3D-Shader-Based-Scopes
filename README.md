@@ -30,7 +30,7 @@ You need these for 3DSS to work.
   <li><a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/releases">3DSS for ATHI WEAPONS</a> --> <a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/blob/main/README.md">Original mod</a></li>
   <li><a href="url">3DSS for LEWD FAMAS</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Retro's , CR7, RFB</a> --> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for Sig Spear</a> --> <a href="url">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">3DSS for Sig Spear</a> --> <a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/blob/main/README.md">Original mod</a></li>
   <li><a href="url">3DSS for SR25 EFT</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for TCWP MK47 & MP155</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for juan Guns</a> --> <a href="url">Original mod</a></li>
