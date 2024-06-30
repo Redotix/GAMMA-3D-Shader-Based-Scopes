@@ -19,7 +19,7 @@ You need these for 3DSS to work.
 <h1><u> Downloads </u></h1>
 
   <a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a>
-  This is the main mod, this one always needs to be installed.
+  This is the main mod, it is required if you want to install any other 3DSS packs.
 
 <h2><u>Compatibility mods</u></h2>
 <p>These add 3DSS compatibility for other mods, you need the original mods to use these.</p><br />
