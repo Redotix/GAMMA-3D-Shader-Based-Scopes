@@ -24,10 +24,10 @@ You need these for 3DSS to work.
 <h2><u>Compatibility mods</u></h2>
 <p>These add 3DSS compatibility for other mods, you need the original mods to use these.</p><br />
 <ul>
-  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a> --> <a href="https://drive.google.com/drive/folders/1uuyEiBEj-DLXJinkbM23B8kZSNvzMUui">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">3DSS for No AK folding Stocks</a> --> <a href="https://drive.google.com/file/d/1QGQsADF3TswOLS1T40k7WWYG2vFSdNsa/view?usp=drive_link">Original mod</a></li>
-  <li><a href="url">3DSS for Vanilla Reanimated Guns</a> --> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for ATHI WEAPONS</a> --> <a href="url">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS for BAS22</a> --> <a href="https://github.com/andtheherois/3DSS-For-BAS22/blob/main/README.md">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">3DSS for No AK folding Stocks</a> --> <a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/blob/main/README.md">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/releases">3DSS for Vanilla Reanimated Guns</a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/releases">3DSS for ATHI WEAPONS</a> --> <a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/blob/main/README.md">Original mod</a></li>
   <li><a href="url">3DSS for LEWD FAMAS</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Retro's , CR7, RFB</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Sig Spear</a> --> <a href="url">Original mod</a></li>
@@ -36,8 +36,8 @@ You need these for 3DSS to work.
   <li><a href="url">3DSS for juan Guns</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for GS AA12, AK101, AK103 BP, Gauss</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for Milkor Granade Lanucher</a> --> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for Howa20</a> --> <a href="url">Original mod</a></li>
-  <li><a href="url">3DSS for Phant0m's AKs</a> --> <a href="url">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/releases">3DSS for Howa20</a> --> <a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/blob/main/README.md">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/releases">3DSS for Phant0m's AKs</a> --> <a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/blob/main/README.md">Original mod</a></li>
   <li><a href="url">3DSS for EFP Weapons</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for M14 & Ultima Reanimation</a> --> <a href="url">Original mod</a></li>
   <li><a href="url">3DSS for EFP MK47 Reanimation</a> --> <a href="url">Original mod</a></li>
@@ -48,12 +48,12 @@ You need these for 3DSS to work.
 <h2><u>Standalone mods</u></h2>
 <p></p>These are weapon mods that aleady have 3DSS built in.</p><br />
 <ul>
-  <li><a href="url">3DSS for Re-enabled guns</a></li
+  <li><a href="https://github.com/andtheherois/3DSS-Re-Enabled-Guns/releases">3DSS for Re-enabled guns</a></li>
   <li><a href="url">TX-15 Reanimation</a></li>
   <li><a href="url">M4 Skryaga Reanimation</a></li>
   <li><a href="url">M4A1 Siber Reanimation</a></li>
   <li><a href="url">3DSS for MP412 Rex</a></li>
-  <li><a href="url">3DSS for Aug A3 Replacement</a></li>
+  <li><a href="https://github.com/andtheherois/AUG-A3-Custom-Replacer-for-3DSS/releases">3DSS for Aug A3 Replacement</a></li>
   <li><a href="url">3DSS for Silenced SV98</a></li>
 </ul>
 
