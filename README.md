@@ -25,31 +25,127 @@ You need these for 3DSS to work.
 <h2><u>Compatibility mods</u></h2>
 <p>These add 3DSS compatibility for other mods, you need the original mods to use these.</p><br />
 <ul>
-  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">3DSS-For-BAS22</a> --> <a href="https://github.com/andtheherois/3DSS-For-BAS22/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">3DSS-No-BAS-folding-stock-AKs</a> --> <a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/releases">3DSS-for-Reanimated-Vanilla-Replacements</a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/releases">3DSS-for-HOWA20-Makeover</a> --> <a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/releases">3DSS-for-PHant0m-s-Endgame-AKs</a> --> <a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">3DSS-M4-Tactical-Reanimation-and-Remodel</a> --> <a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/releases">3DSS-for-ATHI-Weapon-Pack</a> --> <a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">3DSS-for-SIG-SPEAR</a> --> <a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/releases">3DSS-for-EFPWP---ATHI-Edit</a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">Original mod</a></li>
-  <li><a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/releases">3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions</a> --> <a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/blob/main/README.md">Original mod</a></li>
-  <li><a href="">Sample</a> --> <a href="">Original mod</a></li>
-  <li><a href="">Sample</a> --> <a href="">Original mod</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">
+    3DSS-For-BAS22
+  </a> --> <a href="https://github.com/andtheherois/3DSS-For-BAS22/blob/main/README.md">
+    Original mod</a></li>
+  
+  <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">
+    3DSS-No-BAS-folding-stock-AKs
+  </a> --> <a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/releases">
+    3DSS-for-Reanimated-Vanilla-Replacements
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/releases">
+    3DSS-for-HOWA20-Makeover
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/releases">
+    3DSS-for-PHant0m-s-Endgame-AKs
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
+    3DSS-M4-Tactical-Reanimation-and-Remodel
+  </a> --> <a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/releases">
+    3DSS-for-ATHI-Weapon-Pack
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
+    3DSS-for-SIG-SPEAR
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/releases">
+    3DSS-for-EFPWP---ATHI-Edit
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/releases">
+    3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/blob/main/README.md">
+    3DSS-for-TCWP-Mk47-MP155-RPK16
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/releases">
+    Original mod</a</li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
+    3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/releases">
+    3DSS-for-LEWD-FAMAS
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/releases">
+    3DSS-for-Retro-s-CR7-N4-and-RFB
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/releases">
+    3DSS-for-SR25-EFT
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
+    3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/blob/main/README.md">
+    Original mod</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
+    3DSS-for-JUAN-s-Guns
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/blob/main/README.md">
+    Original mod</a></li>
+        
+  <li><a href="https://github.com/andtheherois/3DSS-for-FG42/releases">
+    3DSS-for-FG42
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-FG42/blob/main/README.md">
+    Original mod</a></li>
+        
+  <li><a href="https://github.com/andtheherois/3DSS-fom-Gungnir/releases">
+    3DSS-fom-Gungnir
+  </a> --> <a href="https://github.com/andtheherois/3DSS-fom-Gungnir/blob/main/README.md">
+    Original mod</a></li>
+        
+  <li><a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/releases">
+    3DSS-for-Milkor-GL
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/blob/main/README.md">
+    Original mod</a></li>
 </ul>
 
 <h2><u>Standalone mods</u></h2>
 <p></p>These are weapon mods that aleady have 3DSS built in.</p><br />
 <ul>
-  <li><a href="https://github.com/andtheherois/3DSS-Re-Enabled-Guns/releases">3DSS-Re-Enabled-Guns</a></li>
-  <li><a href="https://github.com/andtheherois/AUG-A3-Custom-Replacer-for-3DSS/releases">AUG-A3-Custom-Replacer-for-3DSS</a></li>
-  <li><a href="">Sample</a></li>
-  <li><a href="">Sample</a></li>
-  <li><a href="">Sample</a></li>
-  <li><a href="">Sample</a></li>
-  <li><a href="">Sample</a></li>
-  <li><a href="">Sample</a></li>
+  <li><a href="https://github.com/andtheherois/3DSS-Re-Enabled-Guns/releases">
+    3DSS-Re-Enabled-Guns</a></li>
+  
+  <li><a href="https://github.com/andtheherois/AUG-A3-Custom-Replacer-for-3DSS/releases">
+    AUG-A3-Custom-Replacer-for-3DSS</a></li>
+  
+  <li><a href="https://github.com/andtheherois/3DSS-TX15-Reanimation/releases">
+    3DSS-TX15-Reanimation</a></li>
+      
+  <li><a href="https://github.com/andtheherois/3DSS-M4-Skyraga-Reanimation/releases">
+    3DSS-M4-Skyraga-Reanimation</a></li>
+      
+  <li><a href="https://github.com/andtheherois/3DSS-M4A1-Siber-Reanimation/releases">
+    3DSS-M4A1-Siber-Reanimation</a></li>
+      
+  <li><a href="https://github.com/andtheherois/3DSS-IWP-SV98-Port/releases">
+    3DSS-IWP-SV98-Port</a></li>
 </ul>
 
 <h1><u> Install Guide </u></h1>
