@@ -62,3 +62,12 @@ You need these for 3DSS to work.
 
 Example load order
 <img src="https://media.discordapp.net/attachments/1219433143069708299/1246981623577051237/image.png?ex=66814d62&is=667ffbe2&hm=b9949931935d2835150d2e193d8fc41e395f81e85d3aa373c02d9dea4229c5b4&=&format=webp&quality=lossless" alt="example load order">
+
+<h1><u> TO DO </u></h1>
+<ul>
+  <li> Fix SSS ghosting</li>
+  <li> Fix Beef NVG tube switching</li>
+  <li> Clean up code</li>
+  <li> Merge exe edits with Demonized repo</li>
+  <li> Deal with transparent/emissive objects showing up inside scopes</li>
+</ul>
