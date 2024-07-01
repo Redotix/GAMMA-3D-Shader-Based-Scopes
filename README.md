@@ -14,6 +14,7 @@ You need these for 3DSS to work.
   <li><a href="https://drive.google.com/file/d/19tHFE6SD6_5X1XCRTlLXL08MrbXfzWf3/view?usp=drive_link">Mark Switch</a></li>
   <li><a href="https://github.com/Redotix/xray-monolith/releases">Current test EXEs for working grass, lighting and particles</a></li>
   <li>DISABLE **137- Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
+  <li>Make sure SMAA is turned off in your stalker graphics settings</li>
 </ol>
 
 <h1><u> Downloads </u></h1>
