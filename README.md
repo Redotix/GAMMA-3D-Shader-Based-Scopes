@@ -75,9 +75,9 @@ You need these for 3DSS to work.
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/blob/main/README.md">
     Original mod</a></li>
     
-  <li><a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/blob/main/README.md">
+  <li><a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/releases">
     3DSS-for-TCWP-Mk47-MP155-RPK16
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/releases">
+  </a> --> <a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/blob/main/README.md">
     Original mod</a</li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
