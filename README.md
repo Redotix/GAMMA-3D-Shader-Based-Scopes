@@ -166,4 +166,5 @@ Example load order
   <li> Clean up code</li>
   <li> Merge exe edits with Demonized repo</li>
   <li> Deal with transparent/emissive objects showing up inside scopes</li>
+  <li> Fix various low poly scope windows</li>
 </ul>
