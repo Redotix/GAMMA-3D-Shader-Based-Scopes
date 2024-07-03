@@ -157,7 +157,8 @@ You need these for 3DSS to work.
 </ol>
 
 Example load order
-<img src="https://media.discordapp.net/attachments/1219433143069708299/1246981623577051237/image.png?ex=66814d62&is=667ffbe2&hm=b9949931935d2835150d2e193d8fc41e395f81e85d3aa373c02d9dea4229c5b4&=&format=webp&quality=lossless" alt="example load order">
+![image](https://github.com/Redotix/GAMMA-3D-Shader-Based-Scopes/assets/118221809/3cdfad76-f9a1-493e-a1bd-4cda7325e21b)
+
 
 <h1><u> TO DO </u></h1>
 <ul>
