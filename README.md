@@ -100,11 +100,6 @@ You need these for 3DSS to work.
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/blob/main/README.md">
     Original mod</a></li>
     
-  <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
-    3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/blob/main/README.md">
-    Original mod</a></li>
-    
   <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
     3DSS-for-JUAN-s-Guns
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/blob/main/README.md">
