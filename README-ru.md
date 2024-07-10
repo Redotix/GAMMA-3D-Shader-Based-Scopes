@@ -1,128 +1,129 @@
 # GAMMA-3D-Shader-Based-Scopes
-A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
+Коллекция аддонов, которая добавляет 3D Shader Scopes к оружию GAMMA и прочим оружейным пакам
 
-<h2>Credits</h2>
-Andtheherois - creating all these packs<br/>
-Party50 - creating the original 3DSS mod<br/>
-NLTP_ASHES- creating the lense hiding script<br/>
-LVuter - massive help with EXE edits and Shaders<br/>
-Redotix - EXE edits<br/>
+<h2>Авторы</h2>
+Andtheherois - создание паков<br/>
+Party50 - создание оригинального аддона 3DSS<br/>
+NLTP_ASHES- создание скрипта на скытие линзы<br/>
+LVuter - огромная помощь с редактированием EXE-шников и с шейдерами<br/>
+Redotix - редактирование EXE-шников<br/>
+FoxEternal - перевод инструкций на русский<br/>
 
-<h1><u> Dependencies </u></h1>
-You need these for 3DSS to work.
+<h1><u> Зависимости </u></h1>
+Что нужно для работы 3DSS.
 <ol>
   <li><a href="https://drive.google.com/file/d/19tHFE6SD6_5X1XCRTlLXL08MrbXfzWf3/view?usp=drive_link">Mark Switch</a></li>
-  <li><a href="https://github.com/Redotix/xray-monolith/releases">Current test EXEs for working grass, lighting and particles</a></li>
-  <li>DISABLE **137- Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
-  <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings</li>
+  <li><a href="https://github.com/Redotix/xray-monolith/releases">Текущие тестовые EXE-шники для рабочей травы, освещения, и частиц</a></li>
+  <li>ОТКЛЮЧИТЕ АДДОН **137- Auto-Zoomed Out Scope Draw - Demonized** В MO2</li>
+  <li>Убедитесь, что SMAA и Сглаживание(Anti-Aliasing) отключены в Настройках Видео</li>
 </ol>
 
-<h1><u> Downloads </u></h1>
+<h1><u> Загрузки </u></h1>
 
   <a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a>
-  This is the main mod, it is required if you want to install any other 3DSS packs.
+  Это основной аддон, нужный для установки каких либо других 3DSS паков.
 
-<h2><u>Compatibility mods</u></h2>
-<p>These add 3DSS compatibility for other mods, you need the original mods to use these.</p><br />
+<h2><u>Аддоны совместимости</u></h2>
+<p>Они добавляют совместимость с 3DSS, вам также нужны орининальные аддоны.</p><br />
 <ul>
   <li><a href="https://github.com/andtheherois/3DSS-For-BAS22/releases">
     3DSS-For-BAS22
   </a> --> <a href="https://github.com/andtheherois/3DSS-For-BAS22/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
   
   <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">
     3DSS-No-BAS-folding-stock-AKs
   </a> --> <a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/releases">
     3DSS-for-Reanimated-Vanilla-Replacements
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/releases">
     3DSS-for-HOWA20-Makeover
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/releases">
     3DSS-for-PHant0m-s-Endgame-AKs
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
     3DSS-M4-Tactical-Reanimation-and-Remodel
   </a> --> <a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/releases">
     3DSS-for-ATHI-Weapon-Pack
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
     3DSS-for-SIG-SPEAR
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/releases">
     3DSS-for-EFPWP---ATHI-Edit
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/releases">
     3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/releases">
     3DSS-for-TCWP-Mk47-MP155-RPK16
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/blob/main/README.md">
-    Original mod</a</li>
+    Оригинальный аддон</a</li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
     3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/releases">
     3DSS-for-LEWD-FAMAS
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/releases">
     3DSS-for-Retro-s-CR7-N4-and-RFB
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/releases">
     3DSS-for-SR25-EFT
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
     3DSS-for-JUAN-s-Guns
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
         
   <li><a href="https://github.com/andtheherois/3DSS-for-FG42/releases">
     3DSS-for-FG42
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-FG42/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
         
   <li><a href="https://github.com/andtheherois/3DSS-fom-Gungnir/releases">
     3DSS-fom-Gungnir
   </a> --> <a href="https://github.com/andtheherois/3DSS-fom-Gungnir/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
         
   <li><a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/releases">
     3DSS-for-Milkor-GL
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/blob/main/README.md">
-    Original mod</a></li>
+    Оригинальный аддон</a></li>
 </ul>
 
-<h2><u>Standalone mods</u></h2>
-<p></p>These are weapon mods that aleady have 3DSS built in.</p><br />
+<h2><u>Автономныу аддоны</u></h2>
+<p></p>Оружейные аддоны, которые уже включают в себя 3DSS.</p><br />
 <ul>
   <li><a href="https://github.com/andtheherois/3DSS-Re-Enabled-Guns/releases">
     3DSS-Re-Enabled-Guns</a></li>
@@ -143,19 +144,19 @@ You need these for 3DSS to work.
     3DSS-IWP-SV98-Port</a></li>
 </ul>
 
-<h1><u> Install Guide </u></h1>
+<h1><u> Инструкция по установке </u></h1>
 
 <ol>
-  <li><b>Install 3DSS for GAMMA</b> This should be far down on your priority list. At least below ALL weapon mods. This should always load before any other 3DSS mods. Other 3DSS mods must load after this. <b>There should be NO weapon mods in between any of the 3DSS mods.</b></li>
-  <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD!</b></li>
-  <li>Delete your Shader Cache</li>
+  <li><b>Установите 3DSS for GAMMA</b> Этот аддон должен находиться как можно ниже в списке приоритета (большее число справа), точно ниже ВСЕХ оружейных аддонов. Он должен згружаться раньше остальных 3DSS аддонов. Остальные 3DSS аддоны должны загружаться полсе этого. <b>Не должно быть НИКАКИХ оружейных аддонов между какими либо аддонами 3DSS.</b></li>
+  <li>Устанавливайте другие 3DSS аддоны ПОД 3DSS for GAMMA. <b>ВЫ ДОЛЖНЫ УСТАНОВИТЬ ОРИГИНАЛЬНЫЕ АДДОНЫ. ОНИ НЕ ВКЛЮЧАЮТ В СЕБЯ ОРИГИНАЛЬНЫЕ АДДОНЫ!</b></li>
+  <li>Удалите папку "shaders_cache" в своей папке "Anomaly\appdata"</li>
 </ol>
 
-Example load order
+Пример списка аддонов
 ![image](https://github.com/Redotix/GAMMA-3D-Shader-Based-Scopes/assets/118221809/3cdfad76-f9a1-493e-a1bd-4cda7325e21b)
 
 
-<h1><u> TO DO </u></h1>
+<h1><u> TO DO (не перевёл kekw) </u></h1>
 <ul>
   <li> Fix SSS ghosting</li>
   <li> Fix Beef NVG tube switching</li>
