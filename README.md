@@ -1,6 +1,8 @@
 # GAMMA-3D-Shader-Based-Scopes
 A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
 
+<a href="https://github.com/Redotix/GAMMA-3D-Shader-Based-Scopes/blob/main/README-ru.md">Russian Tutorial</a>
+
 <h2>Credits</h2>
 Andtheherois - creating all these packs<br/>
 Party50 - creating the original 3DSS mod<br/>
