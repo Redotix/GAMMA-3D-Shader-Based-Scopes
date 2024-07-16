@@ -148,6 +148,7 @@ You need these for 3DSS to work.
 <h1><u> Install Guide </u></h1>
 
 <ol>
+  <li>Make sure you have installed everything from the <b>Dependencies</b> section</li>
   <li><b>Install 3DSS for GAMMA</b> This should be far down on your priority list. At least below ALL weapon mods. This should always load before any other 3DSS mods. Other 3DSS mods must load after this. <b>There should be NO weapon mods in between any of the 3DSS mods.</b></li>
   <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD!</b></li>
   <li>Delete your Shader Cache</li>
