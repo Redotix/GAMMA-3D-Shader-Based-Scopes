@@ -160,10 +160,10 @@ Example load order
 
 <h1><u> TO DO </u></h1>
 <ul>
-  <li> Fix SSS ghosting</li>
+  <li> Fix SSS ghosting</li> - DONE
   <li> Fix Beef NVG tube switching</li>
   <li> Clean up code</li>
   <li> Merge exe edits with Demonized repo</li>
-  <li> Deal with transparent/emissive objects showing up inside scopes</li>
-  <li> Fix various low poly scope windows</li>
+  <li> Deal with transparent/emissive objects showing up inside scopes</li> - DONE
+  <li> Fix various low poly scope windows</li> - DONE
 </ul>
