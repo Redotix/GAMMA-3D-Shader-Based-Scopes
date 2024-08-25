@@ -165,7 +165,7 @@ Example load order
   <li> Fix Beef NVG tube switching</li>
   <li> Clean up code</li> - DONE
   <li> Remove the need for a lense hiding script </li>
-  <li> Merge exe edits with Demonized repo</li>
+  <li> Merge exe edits with Demonized repo</li> - DONE
   <li> Deal with transparent/emissive objects showing up inside scopes</li> - DONE
   <li> Fix various low poly scope windows</li> - DONE
 </ul>
