@@ -13,8 +13,8 @@ Redotix - EXE edits<br/>
 <h1><u> Dependencies </u></h1>
 You need these for 3DSS to work.
 <ol>
-  <li><a href="https://drive.google.com/file/d/19tHFE6SD6_5X1XCRTlLXL08MrbXfzWf3/view?usp=drive_link">Mark Switch</a></li>
-  <li><a href="https://github.com/Redotix/xray-monolith/releases">Current test EXEs for working grass, lighting and particles.</a> Place these in your Anomaly/bin folder and overwrite</li>
+  <li><a href="https://drive.google.com/file/d/19tHFE6SD6_5X1XCRTlLXL08MrbXfzWf3/view?usp=drive_link">Mark Switch</a> Install trough MO2 like any other mod.</li>
+  <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Latest Version of Demonized modded EXEs</a> Follow the install instructions on the page.</li>
   <li>DISABLE **137- Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
   <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings</li>
 </ol>
@@ -148,10 +148,10 @@ You need these for 3DSS to work.
 <h1><u> Install Guide </u></h1>
 
 <ol>
-  <li>Make sure you have installed everything from the <b>Dependencies</b> section</li>
+  <li>Make sure you have done everything from the <b>Dependencies</b> section</li>
   <li><b>Install 3DSS for GAMMA</b> This should be far down on your priority list. At least below ALL weapon mods. This should always load before any other 3DSS mods. Other 3DSS mods must load after this. <b>There should be NO weapon mods in between any of the 3DSS mods.</b></li>
   <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD!</b></li>
-  <li>Delete your Shader Cache</li>
+  <li>Delete your Shader Cache: Anomaly > appdata > shaders_cache - delete</li>
 </ol>
 
 Example load order
