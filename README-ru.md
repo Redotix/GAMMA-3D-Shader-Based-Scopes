@@ -13,7 +13,7 @@ FoxEternal - перевод инструкций на русский<br/>
 Что нужно для работы 3DSS.
 <ol>
   <li><a href="https://drive.google.com/file/d/19tHFE6SD6_5X1XCRTlLXL08MrbXfzWf3/view?usp=drive_link">Mark Switch</a></li>
-  <li><a href="https://github.com/Redotix/xray-monolith/releases">Текущие тестовые EXE-шники для рабочей травы, освещения, и частиц</a></li>
+  <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/releases">Последняя версия Anomaly Modded exes</a></li>
   <li>ОТКЛЮЧИТЕ АДДОН **137- Auto-Zoomed Out Scope Draw - Demonized** В MO2</li>
   <li>Убедитесь, что SMAA и Сглаживание(Anti-Aliasing) отключены в Настройках Видео</li>
 </ol>
@@ -158,7 +158,7 @@ FoxEternal - перевод инструкций на русский<br/>
   <li>     - 3D SHADER SCOPES FOR GAMMA </li>
   <li>     - 3DSS аддоны для оружейных паков, которые скачали</li> 
   <li>3. Удалите папку "shaders_cache" в своей папке "Anomaly\appdata"</li>
-  <li>4. Скопируйте скачанные EXE-шники в папку "Anomaly\bin"</li>
+  <li>4. Распакуйте скачанные Modded Exes в свою папку "Anomaly"</li>
   <li>5. ОТКЛЮЧИТЕ АДДОН **137- Auto-Zoomed Out Scope Draw - Demonized** В MO2</li>
   <li>6. Убедитесь, что SMAA и Сглаживание(Anti-Aliasing) **отключены** в Настройках Видео</li>
 </ul>
@@ -169,10 +169,7 @@ FoxEternal - перевод инструкций на русский<br/>
 
 <h1><u> TO DO (не перевёл kekw) </u></h1>
 <ul>
-  <li> Fix SSS ghosting</li>
+  <li> Fix Reshade ghosting</li>
   <li> Fix Beef NVG tube switching</li>
-  <li> Clean up code</li>
-  <li> Merge exe edits with Demonized repo</li>
-  <li> Deal with transparent/emissive objects showing up inside scopes</li>
-  <li> Fix various low poly scope windows</li>
+  <li> Remove the need for a lens hiding script</li>
 </ul>
