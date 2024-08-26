@@ -171,11 +171,11 @@ Example load order
 </ul>
 
 <h1><u> LOOKING FOR HELP </u></h1>
-If anyone understand graphics programming and the stalker source that want to help here are the rendering issues that I was not able to solve:
+If anyone understands graphics programming and the stalker source that wants to help, here are the rendering issues that I was not able to solve:
 
 <ul>
   <li> Currently the mod requires 3 different lenses with 3 different shaders to be defined in the ogf file, this could be improved by only defining a single lense which we then render 3 times in the engine, this however requires all 3 shaders to be defined and precompiled inside the game engine as to my knowledge its not possible to force render with a shader that is compiled at runtime</li>
-  <li> The shader thats responsible for restoring the zbuffer inside the scope has ztesting turned off, as the ztest always failed since hte lense contrained the depth information of whats behind the scope, Preffarably it would be nice to fix it so we can ztest (or use a stencil test) because lenses are sometimes deep inside a scope, causing them to be rendere over the top of the socpe (currently we just disable the 3rd lense while not aiming down sights)</li>
+  <li> The shader thats responsible for restoring the zbuffer inside the scope has ztesting turned off, as the ztest always failed since the lense contained the depth information of whats behind the scope. Preffarably it would be nice to fix it so we can ztest (or use a stencil test) because lenses are sometimes deep inside a scope, causing them to be rendere over the top of the socpe (currently we just disable the 3rd lense while not aiming down sights)</li>
   <li> The Biggest issue currently is that our "zoom effect" we do inside the scope only affects the color render target and therefor doesnt zoom in the image inside the zbuffer or the position rt, this causes some effects from SSS and effects from Reshade that use the zbuffer to render incorrecly inside the scope. I dont know how to fix this as I wasnt able to sample the zbuffer or the position rt inside the reticle pixel shader</li>
 </ul>
 
