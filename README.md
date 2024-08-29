@@ -56,22 +56,12 @@ You need these for 3DSS to work.
     3DSS-M4-Tactical-Reanimation-and-Remodel
   </a> --> <a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/blob/main/README.md">
     Original mod</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/releases">
-    3DSS-for-ATHI-Weapon-Pack
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/blob/main/README.md">
-    Original mod</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
-    3DSS-for-SIG-SPEAR
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/blob/main/README.md">
-    Original mod</a></li>
-    
+
   <li><a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/releases">
     3DSS-for-EFPWP---ATHI-Edit
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">
     Original mod</a></li>
-    
+         
   <li><a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/releases">
     3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/blob/main/README.md">
@@ -143,6 +133,36 @@ You need these for 3DSS to work.
       
   <li><a href="https://github.com/andtheherois/3DSS-IWP-SV98-Port/releases">
     3DSS-IWP-SV98-Port</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
+    3DSS-SIG-MCX-SPEAR</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-Saiga23/releases">
+    3DSS-Saiga23</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-SVU-PMC/releases">
+    3DSS-SVU-PMC</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-AK101-SP/releases">
+    3DSS-AK101-SP</a></li>    
+
+  <li><a href="https://github.com/andtheherois/3DSS-RPD-Custom/releases">
+    3DSS-RPD-Custom</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-Mateba-Unica/releases">
+    3DSS-Mateba-unica</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-VEPR762x544/releases">
+    3DSS-VEPR762x54</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-KAC-Freak-PDW/releases">
+    3DSS-KAC-Freak-PDW</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-Groza-Custom/releases">
+    3DSS-Groza-Custom</a></li> 
+
+  <li><a href="https://github.com/andtheherois/3DSS-PSG1A1/releases">
+    3DSS-PSG1A1</a></li>     
 </ul>
 
 <h1><u> Install Guide </u></h1>
@@ -160,9 +180,9 @@ Example load order
 
 <h1><u> TO DO </u></h1>
 <ul>
-  <li> Fix SSS ghosting</li> - DONE
+  <li> Fix SSS ghosting</li> - PARTIALLY DONE
   <li> Fix Reshade ghosting</li>
-  <li> Fix Beef NVG tube switching</li>
+  <li> Fix Beef NVG tube switching</li> (can be fixed by using Improved Beef's NVGs mod)
   <li> Clean up code</li> - DONE
   <li> Remove the need for a lense hiding script </li>
   <li> Merge exe edits with Demonized repo</li> - DONE
