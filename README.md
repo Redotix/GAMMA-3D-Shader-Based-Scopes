@@ -13,7 +13,7 @@ Redotix - EXE edits<br/>
 <h1><u> Dependencies </u></h1>
 You need these for 3DSS to work.
 <ol>
-  <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver.">Mark Switch</a> Install trough MO2 like any other mod.</li>
+  <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install trough MO2 like any other mod.</li>
   <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Latest Version of Demonized modded EXEs</a> Follow the install instructions on the page. (UP TP DATE EXES ARE IN GAMMA AS OF 8/29/24)</li>
   <li>DISABLE **137- Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
   <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings</li>
