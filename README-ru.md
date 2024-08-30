@@ -12,7 +12,7 @@ FoxEternal - перевод инструкций на русский<br/>
 <h1><u> Зависимости </u></h1>
 Что нужно для работы 3DSS.
 <ol>
-  <li><a href="https://drive.google.com/file/d/19tHFE6SD6_5X1XCRTlLXL08MrbXfzWf3/view?usp=drive_link">Mark Switch</a></li>
+  <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver.">Mark Switch</a></li>
   <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Скачайте последнюю версию Anomaly Modded exes на странице Releases</a></li>
   <li>ОТКЛЮЧИТЕ АДДОН **137- Auto-Zoomed Out Scope Draw - Demonized** В MO2</li>
   <li>Убедитесь, что SMAA и Сглаживание(Anti-Aliasing) отключены в Настройках Видео</li>
