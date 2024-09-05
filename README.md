@@ -65,12 +65,7 @@ You need these for 3DSS to work.
   <li><a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/releases">
     3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/blob/main/README.md">
-    Original mod</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/releases">
-    3DSS-for-TCWP-Mk47-MP155-RPK16
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/blob/main/README.md">
-    Original mod</a</li>
+    Original mod</a></li>   
     
   <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
     3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle
@@ -162,7 +157,10 @@ You need these for 3DSS to work.
     3DSS-Groza-Custom</a></li> 
 
   <li><a href="https://github.com/andtheherois/3DSS-PSG1A1/releases">
-    3DSS-PSG1A1</a></li>     
+    3DSS-PSG1A1</a></li>   
+    
+  <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack/releases">
+    3DSS-The-Covenant-Weapon-Pack</a></li>      
 </ul>
 
 <h1><u> Install Guide </u></h1>
