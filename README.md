@@ -153,7 +153,7 @@ You need these for 3DSS to work.
    <li><a href="https://github.com/andtheherois/3DSS-RFB/releases">
     3DSS-RFB</a></li>   
   <li><a href="https://github.com/andtheherois/3DSS-LEWD-FAMAS/releases">
-    3DSS-for-LEWD-FAMAS-ATHI-Edit</a></li>    
+    3DSS-LEWD-FAMAS-ATHI-Edit</a></li>    
 </ul>
 
 <h1><u> Install Guide </u></h1>
