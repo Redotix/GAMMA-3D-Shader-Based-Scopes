@@ -61,12 +61,7 @@ You need these for 3DSS to work.
     3DSS-for-EFPWP---ATHI-Edit
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">
     Original mod</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
-    3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/blob/main/README.md">
-    Original mod</a></li>
-    
+        
   <li><a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/releases">
     3DSS-for-LEWD-FAMAS
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/blob/main/README.md">
@@ -158,7 +153,16 @@ You need these for 3DSS to work.
     3DSS-The-Covenant-Weapon-Pack</a></li>
 
   <li><a href="https://github.com/andtheherois/3DSS-EFT-Weapons-pack/releases">
-    3DSS-EFT MK47, MP155 Ultima, MK14 SASS</a></li>        
+    3DSS-EFT MK47, MP155 Ultima, MK14 SASS</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-Gunslinger-Gauss/releases">
+    3DSS-Gunslinger-Gauss</a></li> 
+    
+   <li><a href="https://github.com/andtheherois/3DSS-Gunslinger-Ak101/releases">
+    3DSS-Gunslinger-AK101</a></li> 
+    
+   <li><a href="https://github.com/andtheherois/3DSS-AK103-Bullpup/releases">
+    3DSS-AK103-Bullpup</a></li>    
 </ul>
 
 <h1><u> Install Guide </u></h1>
