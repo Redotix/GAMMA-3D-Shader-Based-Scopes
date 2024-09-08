@@ -71,12 +71,7 @@ You need these for 3DSS to work.
     3DSS-for-Retro-s-CR7-N4-and-RFB
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/blob/main/README.md">
     Original mod</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/releases">
-    3DSS-for-SR25-EFT
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/blob/main/README.md">
-    Original mod</a></li>
-    
+        
   <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
     3DSS-for-JUAN-s-Guns
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/blob/main/README.md">
@@ -143,6 +138,9 @@ You need these for 3DSS to work.
 
   <li><a href="https://github.com/andtheherois/3DSS-PSG1A1/releases">
     3DSS-PSG1A1</a></li>   
+
+  <li><a href="https://github.com/andtheherois/3DSS-SR25-PMC/releases">
+    3DSS-SR25-PMC</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack/releases">
     3DSS-The-Covenant-Weapon-Pack</a></li>
