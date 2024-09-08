@@ -166,6 +166,7 @@ You need these for 3DSS to work.
   <li><b>Install 3DSS for GAMMA</b> This should be far down on your priority list. At least below ALL weapon mods. This should always load before any other 3DSS mods. Other 3DSS mods must load after this. <b>There should be NO weapon mods in between any of the 3DSS mods.</b></li>
   <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD!</b></li>
   <li>Delete your Shader Cache: Anomaly > appdata > shaders_cache - delete</li>
+  <li>Once you boot up the game go to the settings an in Modded Exes make sure 3D Shader Scopes is enabled</li>
 </ol>
 
 Example load order
