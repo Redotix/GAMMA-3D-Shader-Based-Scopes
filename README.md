@@ -86,12 +86,7 @@ You need these for 3DSS to work.
     3DSS-for-FG42
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-FG42/blob/main/README.md">
     Original mod</a></li>
-        
-  <li><a href="https://github.com/andtheherois/3DSS-fom-Gungnir/releases">
-    3DSS-fom-Gungnir
-  </a> --> <a href="https://github.com/andtheherois/3DSS-fom-Gungnir/blob/main/README.md">
-    Original mod</a></li>
-        
+               
   <li><a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/releases">
     3DSS-for-Milkor-GL
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/blob/main/README.md">
@@ -163,6 +158,9 @@ You need these for 3DSS to work.
     
    <li><a href="https://github.com/andtheherois/3DSS-AK103-Bullpup/releases">
     3DSS-AK103-Bullpup</a></li>    
+
+  <li><a href="https://github.com/andtheherois/3DSS-Gungnir/releases">
+    3DSS-Gungnir</a></li>    
 </ul>
 
 <h1><u> Install Guide </u></h1>
