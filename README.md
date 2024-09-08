@@ -66,12 +66,7 @@ You need these for 3DSS to work.
     3DSS-for-LEWD-FAMAS
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/blob/main/README.md">
     Original mod</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/releases">
-    3DSS-for-Retro-s-CR7-N4-and-RFB
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/blob/main/README.md">
-    Original mod</a></li>
-        
+            
   <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
     3DSS-for-JUAN-s-Guns
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/blob/main/README.md">
@@ -158,7 +153,10 @@ You need these for 3DSS to work.
     3DSS-AK103-Bullpup</a></li>    
 
   <li><a href="https://github.com/andtheherois/3DSS-Gungnir/releases">
-    3DSS-Gungnir</a></li>    
+    3DSS-Gungnir</a></li> 
+    
+   <li><a href="https://github.com/andtheherois/3DSS-RFB/releases">
+    3DSS-RFB</a></li>   
 </ul>
 
 <h1><u> Install Guide </u></h1>
