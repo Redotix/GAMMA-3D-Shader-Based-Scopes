@@ -61,12 +61,7 @@ You need these for 3DSS to work.
     3DSS-for-EFPWP---ATHI-Edit
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">
     Original mod</a></li>
-        
-  <li><a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/releases">
-    3DSS-for-LEWD-FAMAS
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/blob/main/README.md">
-    Original mod</a></li>
-            
+                   
   <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
     3DSS-for-JUAN-s-Guns
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/blob/main/README.md">
@@ -157,6 +152,8 @@ You need these for 3DSS to work.
     
    <li><a href="https://github.com/andtheherois/3DSS-RFB/releases">
     3DSS-RFB</a></li>   
+  <li><a href="https://github.com/andtheherois/3DSS-LEWD-FAMAS/releases">
+    3DSS-for-LEWD-FAMAS-ATHI-Edit</a></li>    
 </ul>
 
 <h1><u> Install Guide </u></h1>
