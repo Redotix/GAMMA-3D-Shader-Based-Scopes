@@ -132,7 +132,7 @@ You need these for 3DSS to work.
   <li><a href="https://github.com/andtheherois/3DSS-SR25-PMC/releases">
     3DSS-SR25-PMC</a></li>
     
-  <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack/releases">
+  <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack---ATHI-Edit/releases">
     3DSS-The-Covenant-Weapon-Pack</a></li>
 
   <li><a href="https://github.com/andtheherois/3DSS-EFT-Weapons-pack/releases">
