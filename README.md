@@ -153,7 +153,7 @@ You need these for 3DSS to work.
     3DSS-LEWD-FAMAS-ATHI-Edit</a></li>    
 
   <li><a href="https://github.com/andtheherois/3DS-ISG-AK-Makeover/releases">
-    3DSS-ISG-AK-Makeovert</a></li>      
+    3DSS-ISG-AK-Makeover</a></li>      
 </ul>
 
 <h1><u> Install Guide </u></h1>
