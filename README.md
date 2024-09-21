@@ -42,11 +42,6 @@ You need these for 3DSS to work.
     3DSS-for-Reanimated-Vanilla-Replacements
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">
     Original mod</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
-    3DSS-M4-Tactical-Reanimation-and-Remodel
-  </a> --> <a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/blob/main/README.md">
-    Original mod</a></li>
 
   <li><a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/releases">
     3DSS-for-EFPWP---ATHI-Edit
@@ -151,7 +146,11 @@ You need these for 3DSS to work.
     3DSS-ISG-AK-Makeover</a></li>
 
   <li><a href="https://github.com/andtheherois/3DSS-HOWA20-Makeover/releases">
-    3DSS-HOWA20-Makeover</a></li>    
+    3DSS-HOWA20-Makeover</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
+    3DSS-M4-Tactical-Reanimation-and-Remodel
+  </a></li>    
 </ul>
 
 <h1><u> Install Guide </u></h1>
