@@ -43,11 +43,6 @@ You need these for 3DSS to work.
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">
     Original mod</a></li>
     
-  <li><a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/releases">
-    3DSS-for-HOWA20-Makeover
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/blob/main/README.md">
-    Original mod</a></li>
-      
   <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
     3DSS-M4-Tactical-Reanimation-and-Remodel
   </a> --> <a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/blob/main/README.md">
@@ -153,7 +148,10 @@ You need these for 3DSS to work.
     3DSS-LEWD-FAMAS-ATHI-Edit</a></li>    
 
   <li><a href="https://github.com/andtheherois/3DS-ISG-AK-Makeover/releases">
-    3DSS-ISG-AK-Makeover</a></li>      
+    3DSS-ISG-AK-Makeover</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-HOWA20-Makeover/releases">
+    3DSS-HOWA20-Makeover</a></li>    
 </ul>
 
 <h1><u> Install Guide </u></h1>
