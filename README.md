@@ -149,8 +149,10 @@ You need these for 3DSS to work.
     3DSS-HOWA20-Makeover</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
-    3DSS-M4-Tactical-Reanimation-and-Remodel
-  </a></li>    
+    3DSS-M4-Tactical-Reanimation-and-Remodel</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-M98B-Reanimation/releases">
+    3DSS-M98B-Reanimation</a></li>       
 </ul>
 
 <h1><u> Install Guide </u></h1>
