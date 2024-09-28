@@ -15,8 +15,9 @@ You need these for 3DSS to work.
 <ol>
   <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install trough MO2 like any other mod.</li>
   <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install trough MO2 like any other mod.</li>
-  <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Latest Version of Demonized modded EXEs</a> Follow the install instructions on the page. Delete gamedata folder before installing</li>
+  <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Latest Version of Demonized modded EXEs</a> Follow the install instructions on the page. Delete gamedata folder in your BASE anomaly doler before installing. (This will not be required in later updates of GAMMA)</li>
   <li>DISABLE **137- Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
+  <li>In the manim menu, go into settings > modded exes and enable shader scopes smooth zoom change.</li>
   <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings</li>
 </ol>
 
