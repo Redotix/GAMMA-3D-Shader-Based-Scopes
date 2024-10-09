@@ -11,14 +11,12 @@ LVuter - massive help with EXE edits and Shaders<br/>
 Redotix - EXE edits<br/>
 
 <h1><u> Dependencies </u></h1>
-You need these for 3DSS to work.
+Follow these steps before installing 3DSS for GAMMA. The install guide is further below. This is a test to see if you can read.
 <ol>
-  <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install through MO2 like any other mod.</li>
+  <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install through MO2 like any other mod. This should be loaded before 3DSSG. </li>
   <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install through MO2 like any other mod.</li>
-  <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Latest Version of Demonized modded EXEs</a> If your GAMMA install is up to date, you should no longer need to install EXEs separately.</li>
+  <li><a href="https://github.com/themrdemonized/xray-monolith/releases/tag/2024.10.7">Latest Version of Demonized modded EXEs</a> </li>
   <li>DISABLE **137- Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
-  <li>In the manim menu, go into settings > modded exes and enable shader scopes smooth zoom change.</li>
-  <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings</li>
 </ol>
 
 <h1><u> Downloads </u></h1>
@@ -66,7 +64,7 @@ You need these for 3DSS to work.
 </ul>
 
 <h2><u>Standalone mods</u></h2>
-<p></p>These are weapon mods that aleady have 3DSS built in.</p><br />
+<p></p>These are weapon mods that aleady have 3DSS built in and are self contained.</p><br />
 <ul>
   <li><a href="https://github.com/andtheherois/3DSS-Re-Enabled-Guns/releases">
     3DSS-Re-Enabled-Guns</a></li>
@@ -161,8 +159,11 @@ You need these for 3DSS to work.
 <ol>
   <li>Make sure you have done everything from the <b>Dependencies</b> section</li>
   <li><b>Install 3DSS for GAMMA</b> This should be far down on your priority list. At least below ALL weapon mods. This should always load before any other 3DSS mods. Other 3DSS mods must load after this. <b>There should be NO weapon mods in between any of the 3DSS mods.</b></li>
-  <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD!</b></li>
+  <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR SOME OF THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD UNLESS LISTED UNDER THE STAND ALONE SECTION!</b></li>
   <li>Delete your Shader Cache: Anomaly > appdata > shaders_cache - delete</li>
+  <li>In the manim menu, go into settings > modded exes and make sure "3D shader scopes enable" is on. If you do not have this option, in the console type "r__3dfakescope on".</li>
+  <li>In the same menu, go enable shader scopes smooth zoom change (new_zoom_enable).</li>
+  <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings. Use your gpu pannel to add AA or adjust scope magnification via the MCM menu if scope resolution is too low for you.</li>
 </ol>
 
 Example load order
