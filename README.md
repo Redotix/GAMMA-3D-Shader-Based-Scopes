@@ -16,7 +16,8 @@ Follow these steps before installing 3DSS for GAMMA. The install guide is furthe
   <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install through MO2 like any other mod. This should be loaded before 3DSSG. </li>
   <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install through MO2 like any other mod.</li>
   <li><a href="https://github.com/themrdemonized/xray-monolith/releases/tag/2024.10.7">Latest Version of Demonized modded EXEs</a> </li>
-  <li>DISABLE **137- Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
+  <li>DISABLE **137 - Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
+  <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus</a></li>
 </ol>
 
 <h1><u> Downloads </u></h1>
