@@ -17,7 +17,7 @@ Follow these steps before installing 3DSS for GAMMA. The install guide is furthe
   <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install through MO2 like any other mod.</li>
   <li><a href="https://github.com/themrdemonized/xray-monolith/releases/tag/2024.10.7">Latest Version of Demonized modded EXEs</a> </li>
   <li>DISABLE **137 - Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
-  <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus</a></li>
+  <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus. Make sure it loads after GAMMA Large Files (lower on the mod list).</a></li>
 </ol>
 
 <h1><u> Downloads </u></h1>
@@ -162,7 +162,7 @@ Follow these steps before installing 3DSS for GAMMA. The install guide is furthe
   <li><b>Install 3DSS for GAMMA</b> This should be far down on your priority list. At least below ALL weapon mods. This should always load before any other 3DSS mods. Other 3DSS mods must load after this. <b>There should be NO weapon mods in between any of the 3DSS mods.</b></li>
   <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR SOME OF THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD UNLESS LISTED UNDER THE STAND ALONE SECTION!</b></li>
   <li>Delete your Shader Cache: Anomaly > appdata > shaders_cache - delete</li>
-  <li>In the manim menu, go into settings > modded exes and make sure "3D shader scopes enable" is on. If you do not have this option, in the console type "r__3dfakescope on".</li>
+  <li>In the mani menu, go into settings > modded exes and make sure "3D shader scopes enable" is on. If you do not have this option, in the console type "r__3dfakescope on".</li>
   <li>In the same menu, go enable shader scopes smooth zoom change (new_zoom_enable).</li>
   <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings. Use your gpu pannel to add AA or adjust scope magnification via the MCM menu if scope resolution is too low for you.</li>
 </ol>
