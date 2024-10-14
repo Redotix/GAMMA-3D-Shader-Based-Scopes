@@ -15,6 +15,7 @@ FoxEternal - перевод инструкций на русский<br/>
   <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver.">Mark Switch</a></li>
   <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Скачайте последнюю версию Anomaly Modded exes на странице Releases</a></li>
   <li>ОТКЛЮЧИТЕ АДДОН **137- Auto-Zoomed Out Scope Draw - Demonized** В MO2</li>
+  <li>ОТКЛЮЧИТЕ **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** В МО2. Установите <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated от TheShinyHaxorus</a>. Убедитесь, что установлен в конце списка, после файлов GAMMA.
   <li>Убедитесь, что SMAA и Сглаживание(Anti-Aliasing) отключены в Настройках Видео</li>
 </ol>
 
