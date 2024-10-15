@@ -42,11 +42,6 @@ Follow these steps before installing 3DSS for GAMMA. The install guide is furthe
     3DSS-for-Reanimated-Vanilla-Replacements
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">
     Original mod</a></li>
-
-  <li><a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/releases">
-    3DSS-for-EFPWP---ATHI-Edit
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">
-    Original mod</a></li>
                    
   <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
     3DSS-for-JUAN-s-Guns
