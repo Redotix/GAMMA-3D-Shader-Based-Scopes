@@ -41,67 +41,7 @@ FoxEternal - перевод инструкций на русский<br/>
     3DSS-for-Reanimated-Vanilla-Replacements
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">
     Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/releases">
-    3DSS-for-HOWA20-Makeover
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-HOWA20-Makeover/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/releases">
-    3DSS-for-PHant0m-s-Endgame-AKs
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Phant0m-s-Endgame-AKs/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
-    3DSS-M4-Tactical-Reanimation-and-Remodel
-  </a> --> <a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/releases">
-    3DSS-for-ATHI-Weapon-Pack
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-ATHI-Weapon-Pack/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
-    3DSS-for-SIG-SPEAR
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/releases">
-    3DSS-for-EFPWP---ATHI-Edit
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFPWP---ATHI-Edit/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/releases">
-    3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-EFP-M14-SASS-MP155-Ultima-MK47-reaniamtions/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/releases">
-    3DSS-for-TCWP-Mk47-MP155-RPK16
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-TCWP-Mk47-MP155-RPK16/blob/main/README.md">
-    Оригинальный аддон</a</li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/releases">
-    3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Gunslinger-AA12-AK101-AK103-BP-Gauss-Rifle/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/releases">
-    3DSS-for-LEWD-FAMAS
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-LEWD-FAMAS/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/releases">
-    3DSS-for-Retro-s-CR7-N4-and-RFB
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-Retro-s-CR7-N4-and-RFB/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/releases">
-    3DSS-for-SR25-EFT
-  </a> --> <a href="https://github.com/andtheherois/3DSS-for-SR25-EFT/blob/main/README.md">
-    Оригинальный аддон</a></li>
-    
+                   
   <li><a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/releases">
     3DSS-for-JUAN-s-Guns
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-JUAN-s-Guns/blob/main/README.md">
@@ -111,12 +51,7 @@ FoxEternal - перевод инструкций на русский<br/>
     3DSS-for-FG42
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-FG42/blob/main/README.md">
     Оригинальный аддон</a></li>
-        
-  <li><a href="https://github.com/andtheherois/3DSS-fom-Gungnir/releases">
-    3DSS-fom-Gungnir
-  </a> --> <a href="https://github.com/andtheherois/3DSS-fom-Gungnir/blob/main/README.md">
-    Оригинальный аддон</a></li>
-        
+               
   <li><a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/releases">
     3DSS-for-Milkor-GL
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Milkor-GL/blob/main/README.md">
@@ -124,7 +59,7 @@ FoxEternal - перевод инструкций на русский<br/>
 </ul>
 
 <h2><u>Автономные аддоны</u></h2>
-<p></p>Оружейные аддоны, которые уже включают в себя 3DSS.</p><br />
+<p></p>Эти оружейные паки уже включают в себя 3DSS.</p><br />
 <ul>
   <li><a href="https://github.com/andtheherois/3DSS-Re-Enabled-Guns/releases">
     3DSS-Re-Enabled-Guns</a></li>
@@ -143,6 +78,75 @@ FoxEternal - перевод инструкций на русский<br/>
       
   <li><a href="https://github.com/andtheherois/3DSS-IWP-SV98-Port/releases">
     3DSS-IWP-SV98-Port</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
+    3DSS-SIG-MCX-SPEAR</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-Saiga23/releases">
+    3DSS-Saiga23</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-SVU-PMC/releases">
+    3DSS-SVU-PMC</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-AK101-SP/releases">
+    3DSS-AK101-SP</a></li>    
+
+  <li><a href="https://github.com/andtheherois/3DSS-RPD-Custom/releases">
+    3DSS-RPD-Custom</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-Mateba-Unica/releases">
+    3DSS-Mateba-unica</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-VEPR762x544/releases">
+    3DSS-VEPR762x54</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-KAC-Freak-PDW/releases">
+    3DSS-KAC-Freak-PDW</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-Groza-Custom/releases">
+    3DSS-Groza-Custom</a></li> 
+
+  <li><a href="https://github.com/andtheherois/3DSS-PSG1A1/releases">
+    3DSS-PSG1A1</a></li>   
+
+  <li><a href="https://github.com/andtheherois/3DSS-SR25-PMC/releases">
+    3DSS-SR25-PMC</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack---ATHI-Edit/releases">
+    3DSS-The-Covenant-Weapon-Pack</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-EFT-Weapons-pack/releases">
+    3DSS-EFT MK47, MP155 Ultima, MK14 SASS</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-Gunslinger-Gauss/releases">
+    3DSS-Gunslinger-Gauss</a></li> 
+    
+   <li><a href="https://github.com/andtheherois/3DSS-Gunslinger-Ak101/releases">
+    3DSS-Gunslinger-AK101</a></li> 
+    
+   <li><a href="https://github.com/andtheherois/3DSS-AK103-Bullpup/releases">
+    3DSS-AK103-Bullpup</a></li>    
+
+  <li><a href="https://github.com/andtheherois/3DSS-Gungnir/releases">
+    3DSS-Gungnir</a></li> 
+    
+   <li><a href="https://github.com/andtheherois/3DSS-RFB/releases">
+    3DSS-RFB</a></li>   
+    
+  <li><a href="https://github.com/andtheherois/3DSS-LEWD-FAMAS/releases">
+    3DSS-LEWD-FAMAS-ATHI-Edit</a></li>    
+
+  <li><a href="https://github.com/andtheherois/3DS-ISG-AK-Makeover/releases">
+    3DSS-ISG-AK-Makeover</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-HOWA20-Makeover/releases">
+    3DSS-HOWA20-Makeover</a></li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
+    3DSS-M4-Tactical-Reanimation-and-Remodel</a></li>
+
+  <li><a href="https://github.com/andtheherois/3DSS-M98B-Reanimation/releases">
+    3DSS-M98B-Reanimation</a></li>       
 </ul>
 
 <h1><u> Инструкция по установке </u></h1>
