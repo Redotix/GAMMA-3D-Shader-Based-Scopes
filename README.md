@@ -165,7 +165,7 @@ Make sure you have completed all the steps from the **Dependencies** section bef
 
 2. **Install Other 3DSS Mods**
    - Install other 3DSS mods **after** GAMMA Scopes.
-   - You do not need to download the compatability patch "3DSS-For-BAS22" if you have vanilla GAMMA
+   - You do not need to download the compatibility patch "3DSS-For-BAS22" if you have vanilla GAMMA
    - Some mods may require the original versions to function. These original mods are **not included** unless specified in the **Standalone** section.
 
 3. **Delete Shader Cache**
