@@ -150,17 +150,47 @@ Follow these steps before installing 3DSS for GAMMA. The install guide is furthe
     3DSS-M98B-Reanimation</a></li>       
 </ul>
 
-<h1><u> Install Guide </u></h1>
 
-<ol>
-  <li>Make sure you have done everything from the <b>Dependencies</b> section</li>
-  <li><b>Install 3DSS for GAMMA</b> This should be far down on your priority list. At least below ALL weapon mods. This should always load before any other 3DSS mods. Other 3DSS mods must load after this. <b>There should be NO weapon mods in between any of the 3DSS mods.</b></li>
-  <li>Install any other 3DSS mods under GAMMA Scopes. <b>YOU MUST HAVE THE ORIGINAL MODS FOR SOME OF THEM TO WORK. THEY DO NOT INCLUDE THE ORIGINAL MOD UNLESS LISTED UNDER THE STAND ALONE SECTION!</b></li>
-  <li>Delete your Shader Cache: Anomaly > appdata > shaders_cache - delete</li>
-  <li>In the mani menu, go into settings > modded exes and make sure "3D shader scopes enable" is on. If you do not have this option, in the console type "r__3dfakescope on".</li>
-  <li>In the same menu, go enable shader scopes smooth zoom change (new_zoom_enable).</li>
-  <li>Make sure SMAA and Anti-Aliasing is turned off in your stalker graphics settings. Use your gpu pannel to add AA or adjust scope magnification via the MCM menu if scope resolution is too low for you.</li>
-</ol>
+# Installation Guide for 3D Shader Scopes (3DSS) in GAMMA
+
+## Prerequisites
+Make sure you have completed all the steps from the **Dependencies** section before proceeding.
+
+## Installation Steps
+
+1. **Install 3DSS for GAMMA**
+   - Prioritize this installation lower than **ALL** weapon mods.
+   - Ensure **3DSS for GAMMA** loads **before** any other 3DSS mods.
+   - No weapon mods should be placed between any of the 3DSS mods in the load order.
+
+2. **Install Other 3DSS Mods**
+   - Install other 3DSS mods **after** GAMMA Scopes.
+   - You do not need to download the compatability patch "3DSS-For-BAS22" if you have vanilla GAMMA
+   - Some mods may require the original versions to function. These original mods are **not included** unless specified in the **Standalone** section.
+
+3. **Delete Shader Cache**
+   - Navigate to `Anomaly > appdata > shaders_cache` and delete the folder.
+
+4. **Configure Mod Settings**
+   - In the main menu, go to `Settings > Modded EXEs`, and ensure **3D Shader Scopes Enable** is turned **on**.
+   - If this option isn't available, open the console and enter:
+     ```console
+     r__3dfakescope on
+     ```
+
+5. **Enable Smooth Zoom for Shader Scopes**
+   - In the same settings menu, enable **Shader Scopes Smooth Zoom** by turning on:
+     ```console
+     new_zoom_enable
+     ```
+
+6. **Adjust Graphics Settings**
+   - Disable **SMAA** and **Anti-Aliasing** in the Stalker graphics settings.
+   - Use your GPU control panel to enable Anti-Aliasing (AA) or adjust scope magnification through the **MCM menu** if the scope resolution is too low.
+
+---
+
+Follow these steps to ensure proper installation and configuration of 3D Shader Scopes in GAMMA.
 
 Example load order
 ![image](https://github.com/Redotix/GAMMA-3D-Shader-Based-Scopes/assets/118221809/3cdfad76-f9a1-493e-a1bd-4cda7325e21b)
