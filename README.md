@@ -175,7 +175,7 @@ Make sure you have completed all the steps from the **Dependencies** section bef
    - In the main menu, go to `Settings > Modded EXEs`, and ensure **3D Shader Scopes Enable** is turned **on**.
    - If this option isn't available, open the console and enter:
      ```console
-     r__3dfakescope on
+     r__3Dfakescope 1
      ```
 
 5. **Enable Smooth Zoom for Shader Scopes**
