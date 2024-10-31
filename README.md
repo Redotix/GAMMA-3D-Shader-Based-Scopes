@@ -18,6 +18,7 @@ Follow these steps before installing 3DSS for GAMMA. The install guide is furthe
   <li><a href="https://github.com/themrdemonized/xray-monolith/releases/tag/2024.10.7">Latest Version of Demonized modded EXEs</a> </li>
   <li>DISABLE **137 - Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
   <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus.</a> Make sure it loads after GAMMA Large Files (lower on the mod list).</li>
+  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/ak-reanimation-moddb-release">AK Family Reanimation Reanimated by NickolasNikova.</a> Make sure it loads after GAMMA Large Files (lower on the mod list).</li>
 </ol>
 
 <h1><u> Downloads </u></h1>
