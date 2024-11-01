@@ -17,6 +17,7 @@ FoxEternal - перевод инструкций на русский<br/>
   <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Скачайте последнюю версию Anomaly Modded exes на странице Releases</a>.</li>
   <li>ОТКЛЮЧИТЕ АДДОН **137- Auto-Zoomed Out Scope Draw - Demonized** В MO2.</li>
   <li>ОТКЛЮЧИТЕ АДДОН **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** В МО2. Установите <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated от TheShinyHaxorus</a>. Убедитесь, что установлен в конце списка, после файлов GAMMA.</li>
+  <li>Установите <a href="https://www.moddb.com/mods/stalker-anomaly/addons/ak-reanimation-moddb-release">AK Family Reanimation Reanimated от NickolasNikova.</a> Убедитесь, что загружается после GAMMA Large Files (ниже по списку аддонов).</li>
 </ol>
 
 <h1><u> Загрузки </u></h1>
