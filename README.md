@@ -12,19 +12,29 @@ Redotix - EXE edits<br/>
 
 <h1><u> Dependencies </u></h1>
 Follow these steps before installing 3DSS for GAMMA. The install guide is further below. This is a test to see if you can read.
+
+NOTE: After GAMMA's 0.9.3 update, none of these steps will be necesseray as this will all be default in GAMMA. Updated will be the same as installing any other mod. For now just deal with the process. or wait until December's update if it's too much.
+
 <ol>
   <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install through MO2 like any other mod. This should be loaded before 3DSSG. </li>
-  <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install through MO2 like any other mod.</li>
+  <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install through MO2 like any other mod. Load after 3DSS. </li>
   <li><a href="https://github.com/themrdemonized/xray-monolith">Latest Version of Demonized modded EXEs</a> </li>
   <li>DISABLE **137 - Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
-  <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus.</a> Make sure it loads after GAMMA Large Files (lower on the mod list).</li>
-  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/ak-reanimation-moddb-release">AK Family Reanimation Reanimated by NickolasNikova.</a> Make sure it loads after GAMMA Large Files (lower on the mod list).</li>
+  <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus.</a> Make sure it loads after 271 - GAMMA Large Files (lower on the mod list).</li>
+  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/ak-reanimation-moddb-release">AK Family Reanimation Reanimated by NickolasNikova.</a> Make sure it loads after 271 - GAMMA Large Files (lower on the mod list).</li>
+  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-tech-mdr-pack">Desert Tech MDR Pack by Bert and Andtheherois.</a> Make sure it loads BEFORE 3DSS.</li>
+  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/brn-180-assault-rifle">BRN-180 AR by Juan Jmerc.</a> Make sure it loads BEFORE 3DSS.</li>
 </ol>
+
+## Prerequisites
+Make sure you have completed all the steps from the **Dependencies** section before proceeding.
 
 <h1><u> Downloads </u></h1>
 
+DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO LAZY TO UPDATE IT. YOU SHOULD BE USING THE 3DSS VERSION LINKED BELOW.
+
   <a href="https://github.com/Redotix/3DSS-for-GAMMA/releases">3DSS for GAMMA</a>
-  This is the main mod, it is required if you want to install any other 3DSS packs. YOU DO NOT NEED ANY OTHER PACKS FOR THIS TO WORK WITH GAMMA.
+  This is the main mod, it is required if you want to install any other 3DSS packs. YOU DO NOT NEED ANY OTHER PACKS FOR THIS TO WORK WITH GAMMA. The rest are optional.
 
 <h2><u>Compatibility mods</u></h2>
 <p>These add 3DSS compatibility for other mods, you need the original mods to use these.</p><br />
@@ -203,7 +213,7 @@ Example load order
   <li> Fix Reshade ghosting</li>
   <li> Fix Beef NVG tube switching</li> (can be fixed by using Improved Beef's NVGs mod)
   <li> Clean up code</li> - DONE
-  <li> Remove the need for a lense hiding script </li>
+  <li> Remove the need for a lense hiding script </li> (lol no)
   <li> Merge exe edits with Demonized repo</li> - DONE
   <li> Deal with transparent/emissive objects showing up inside scopes</li> - DONE
   <li> Fix various low poly scope windows</li> - DONE
