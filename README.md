@@ -43,12 +43,7 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
     3DSS-For-BAS22
   </a> --> <a href="https://github.com/andtheherois/3DSS-For-BAS22/blob/main/README.md">
     Original mod</a></li>
-  
-  <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">
-    3DSS-No-BAS-folding-stock-AKs
-  </a> --> <a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/blob/main/README.md">
-    Original mod</a></li>
-    
+      
   <li><a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/releases">
     3DSS-for-Reanimated-Vanilla-Replacements
   </a> --> <a href="https://github.com/andtheherois/3DSS-for-Reanimated-Vanilla-Replacements/blob/main/README.md">
@@ -73,6 +68,9 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
 <h2><u>Standalone mods</u></h2>
 <p></p>These are weapon mods that aleady have 3DSS built in and are self contained.</p><br />
 <ul>
+  <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">
+    3DSS-No-BAS-folding-stock-AKs</a></li>
+  
   <li><a href="https://github.com/andtheherois/3DSS-Re-Enabled-Guns/releases">
     3DSS-Re-Enabled-Guns</a></li>
   
