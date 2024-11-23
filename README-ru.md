@@ -14,7 +14,7 @@ FoxEternal - перевод инструкций на русский<br/>
 <ol>
   <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver.">Mark Switch</a>. Установите, как любой другой мод в МО2, и поставьте выше 3DSS for GAMMA в списке.</li>
   <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a>. Установите, как любой другой мод в МО2.</li>
-  <li><a href="https://github.com/themrdemonized/STALKER-Anomaly-modded-exes">Скачайте последнюю версию Anomaly Modded exes на странице Releases</a>.</li>
+  <li><a href="https://github.com/themrdemonized/xray-monolith">Скачайте последнюю версию Anomaly Modded exes на странице Releases</a>.</li>
   <li>ОТКЛЮЧИТЕ АДДОН **137- Auto-Zoomed Out Scope Draw - Demonized** В MO2.</li>
   <li>ОТКЛЮЧИТЕ АДДОН **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** В МО2. Установите <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated от TheShinyHaxorus</a>. Убедитесь, что установлен в конце списка, после файлов GAMMA.</li>
   <li>Установите <a href="https://www.moddb.com/mods/stalker-anomaly/addons/ak-reanimation-moddb-release">AK Family Reanimation Reanimated от NickolasNikova.</a> Убедитесь, что загружается после GAMMA Large Files (ниже по списку аддонов).</li>
