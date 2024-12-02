@@ -1,4 +1,7 @@
 # GAMMA-3D-Shader-Based-Scopes
+
+AS OF GAMMA 0.9.3, 3DSS FOR GAMMA COMES WITH THE DOWNLOAD STANDARD. THESE STEPS ARE NO LONGER REQUIRED FOR 3DSSG TO WORK. YOU ONLY NEED TO DOWNLOAD AND INSTALL THE MAIN 3DSS FILE TO MAKE 3DSS WORK. THIS GUIDE WILL BE LEFT UP AS A REFERNECE.
+
 A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
 
 <a href="https://github.com/Redotix/GAMMA-3D-Shader-Based-Scopes/blob/main/README-ru.md">Russian Tutorial</a>
