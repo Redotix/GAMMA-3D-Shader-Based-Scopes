@@ -1,10 +1,8 @@
 # GAMMA-3D-Shader-Based-Scopes
 
-AS OF GAMMA 0.9.3, THE BASE FILE OF 3DSS FOR GAMMA COMES WITH THE MAIN GAMMA INSTALL, AS WELL AS SOME 3DSS MODS. THESE STEPS ARE NO LONGER REQUIRED FOR 3DSSG TO WORK. YOU ONLY NEED TO DOWNLOAD AND INSTALL THE MAIN 3DSS FILE TO UPDATE 3DSS BEFORE IT IS UPDATED IN GAMMA. MOST OPTIONAL DOWNLOADS ARE NOT INCLUDED IN GAMMA. THIS GUIDE WILL BE LEFT UP AS A REFERNECE.
+AS OF GAMMA 0.9.3, THE BASE FILE OF 3DSS FOR GAMMA COMES WITH THE MAIN GAMMA INSTALL, AS WELL AS SOME 3DSS MODS. YOU SHOULD ONLY NEED TO DOWNLOAD AND INSTALL THE MAIN 3DSS FILE TO UPDATE 3DSS BEFORE IT IS UPDATED IN GAMMA. MOST OPTIONAL DOWNLOADS ARE NOT INCLUDED IN GAMMA. 
 
 A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
-
-<a href="https://github.com/Redotix/GAMMA-3D-Shader-Based-Scopes/blob/main/README-ru.md">Russian Tutorial</a>
 
 <h2>Credits</h2>
 Andtheherois - creating all these packs<br/>
@@ -52,6 +50,21 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
 <h2><u>Standalone mods</u></h2>
 <p></p>These are weapon mods that aleady have 3DSS built in and are self contained. A few of these mods are already included with the base GAMMA install. ATHI Note: this list is not up to date on all of my 3DSS mods. Check out my repos for all the mods.</p><br />
 <ul>
+  <li><a href="https://github.com/andtheherois/3DSS-IWP-SV98-Port/releases">
+    3DSS-IWP-SV98-Port</a> - INCLUDED WITH GAMMA INSTALL</li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-M4A1-Siber-Reanimation/releases">
+    3DSS-M4A1-Siber-Reanimation</a> - INCLUDED WITH GAMMA INSTALL</li> 
+    
+  <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack---ATHI-Edit/releases">
+    3DSS-The-Covenant-Weapon-Pack</a> - INCLUDED WITH GAMMA INSTALL</li>
+
+  <li><a href="https://github.com/andtheherois/3DS-ISG-AK-Makeover/releases">
+    3DSS-ISG-AK-Makeover</a> - INCLUDED WITH GAMMA INSTALL</li>
+    
+  <li><a href="https://github.com/andtheherois/3DSS-M98B-Reanimation/releases">
+    3DSS-M98B-Reanimation</a> - INCLUDED WITH GAMMA INSTALL</li> 
+    
   <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">
     3DSS-No-BAS-folding-stock-AKs</a></li>
   
@@ -66,12 +79,6 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
       
   <li><a href="https://github.com/andtheherois/3DSS-M4-Skyraga-Reanimation/releases">
     3DSS-M4-Skyraga-Reanimation</a></li>
-      
-  <li><a href="https://github.com/andtheherois/3DSS-M4A1-Siber-Reanimation/releases">
-    3DSS-M4A1-Siber-Reanimation</a> - INCLUDED WITH GAMMA INSTALL</li>
-      
-  <li><a href="https://github.com/andtheherois/3DSS-IWP-SV98-Port/releases">
-    3DSS-IWP-SV98-Port</a> - INCLUDED WITH GAMMA INSTALL</li>
 
   <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
     3DSS-SIG-MCX-SPEAR</a></li>
@@ -105,9 +112,6 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
 
   <li><a href="https://github.com/andtheherois/3DSS-SR25-PMC/releases">
     3DSS-SR25-PMC</a></li>
-    
-  <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack---ATHI-Edit/releases">
-    3DSS-The-Covenant-Weapon-Pack</a> - INCLUDED WITH GAMMA INSTALL</li>
 
   <li><a href="https://github.com/andtheherois/3DSS-EFT-Weapons-pack/releases">
     3DSS-EFT MK47, MP155 Ultima, MK14 SASS</a></li>
@@ -130,17 +134,11 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
   <li><a href="https://github.com/andtheherois/3DSS-LEWD-FAMAS/releases">
     3DSS-LEWD-FAMAS-ATHI-Edit</a></li>    
 
-  <li><a href="https://github.com/andtheherois/3DS-ISG-AK-Makeover/releases">
-    3DSS-ISG-AK-Makeover</a> - INCLUDED WITH GAMMA INSTALL</li>
-
   <li><a href="https://github.com/andtheherois/3DSS-HOWA20-Makeover/releases">
     3DSS-HOWA20-Makeover</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-M4-Tactical-Reanimation-and-Remodel/releases">
     3DSS-M4-Tactical-Reanimation-and-Remodel</a></li>
-
-  <li><a href="https://github.com/andtheherois/3DSS-M98B-Reanimation/releases">
-    3DSS-M98B-Reanimation</a> - INCLUDED WITH GAMMA INSTALL</li>       
 </ul>
 
 <h1><u> Dependencies </u></h1>
@@ -159,10 +157,8 @@ NOTE: After GAMMA's 0.9.3 update, none of these steps will be necesseray as this
   <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/brn-180-assault-rifle">BRN-180 AR by Juan Jmerc.</a> Make sure it loads BEFORE 3DSS.</li>
 </ol>
 
-## Prerequisites
-Make sure you have completed all the steps from the **Dependencies** section before proceeding.
-
 # Installation Guide for 3D Shader Scopes (3DSS) in GAMMA
+<a href="https://github.com/Redotix/GAMMA-3D-Shader-Based-Scopes/blob/main/README-ru.md">Russian Tutorial</a>
 
 ## Prerequisites
 Make sure you have completed all the steps from the **Dependencies** section before proceeding.
