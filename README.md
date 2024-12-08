@@ -1,6 +1,6 @@
 # GAMMA-3D-Shader-Based-Scopes
 
-AS OF GAMMA 0.9.3, 3DSS FOR GAMMA COMES WITH THE MAIN GAMMA INSTALL. THESE STEPS ARE NO LONGER REQUIRED FOR 3DSSG TO WORK. YOU ONLY NEED TO DOWNLOAD AND INSTALL THE MAIN 3DSS FILE TO UPDATE 3DSS BEFORE IT IS UPDATED IN GAMMA. THIS GUIDE WILL BE LEFT UP AS A REFERNECE.
+AS OF GAMMA 0.9.3, THE BASE FILE OF 3DSS FOR GAMMA COMES WITH THE MAIN GAMMA INSTALL. THESE STEPS ARE NO LONGER REQUIRED FOR 3DSSG TO WORK. YOU ONLY NEED TO DOWNLOAD AND INSTALL THE MAIN 3DSS FILE TO UPDATE 3DSS BEFORE IT IS UPDATED IN GAMMA. MOST OPTIONAL DOWNLOADS ARE NOT INCLUDED IN GAMMA. THIS GUIDE WILL BE LEFT UP AS A REFERNECE.
 
 A collection of mods that add 3D Shader Based scope support to GAMMA weapons and other weapon packs
 
@@ -12,25 +12,6 @@ Party50 - creating the original 3DSS mod<br/>
 NLTP_ASHES- creating the lense hiding script<br/>
 LVuter - massive help with EXE edits and Shaders<br/>
 Redotix - EXE edits<br/>
-
-<h1><u> Dependencies </u></h1>
-Follow these steps before installing 3DSS for GAMMA. The install guide is further below. This is a test to see if you can read.
-
-NOTE: After GAMMA's 0.9.3 update, none of these steps will be necesseray as this will all be default in GAMMA. Updated will be the same as installing any other mod. For now just deal with the process. or wait until December's update if it's too much.
-
-<ol>
-  <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install through MO2 like any other mod. This should be loaded before 3DSSG. </li>
-  <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install through MO2 like any other mod. Load after 3DSS. </li>
-  <li><a href="https://github.com/themrdemonized/xray-monolith">Latest Version of Demonized modded EXEs</a> </li>
-  <li>DISABLE **137 - Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
-  <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus.</a> Make sure it loads after 271 - GAMMA Large Files (lower on the mod list).</li>
-  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/ak-reanimation-moddb-release">AK Family Reanimation Reanimated by NickolasNikova.</a> Make sure it loads after 271 - GAMMA Large Files (lower on the mod list).</li>
-  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-tech-mdr-pack">Desert Tech MDR Pack by Bert and Andtheherois.</a> Make sure it loads BEFORE 3DSS.</li>
-  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/brn-180-assault-rifle">BRN-180 AR by Juan Jmerc.</a> Make sure it loads BEFORE 3DSS.</li>
-</ol>
-
-## Prerequisites
-Make sure you have completed all the steps from the **Dependencies** section before proceeding.
 
 <h1><u> Downloads </u></h1>
 
@@ -69,7 +50,7 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
 </ul>
 
 <h2><u>Standalone mods</u></h2>
-<p></p>These are weapon mods that aleady have 3DSS built in and are self contained.</p><br />
+<p></p>These are weapon mods that aleady have 3DSS built in and are self contained. A few of these mods are already included with the base GAMMA install. ATHI Note: this list is not up to date on all of my 3DSS mods. Check out my repos for all the mods.</p><br />
 <ul>
   <li><a href="https://github.com/andtheherois/3DSS-No-BAS-folding-stock-AKs/releases">
     3DSS-No-BAS-folding-stock-AKs</a></li>
@@ -87,10 +68,10 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
     3DSS-M4-Skyraga-Reanimation</a></li>
       
   <li><a href="https://github.com/andtheherois/3DSS-M4A1-Siber-Reanimation/releases">
-    3DSS-M4A1-Siber-Reanimation</a></li>
+    3DSS-M4A1-Siber-Reanimation</a> - INCLUDED WITH GAMMA INSTALL</li>
       
   <li><a href="https://github.com/andtheherois/3DSS-IWP-SV98-Port/releases">
-    3DSS-IWP-SV98-Port</a></li>
+    3DSS-IWP-SV98-Port</a> - INCLUDED WITH GAMMA INSTALL</li>
 
   <li><a href="https://github.com/andtheherois/3DSS-for-SIG-SPEAR/releases">
     3DSS-SIG-MCX-SPEAR</a></li>
@@ -126,7 +107,7 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
     3DSS-SR25-PMC</a></li>
     
   <li><a href="https://github.com/andtheherois/3DSS-The-Covenant-Weapon-Pack---ATHI-Edit/releases">
-    3DSS-The-Covenant-Weapon-Pack</a></li>
+    3DSS-The-Covenant-Weapon-Pack</a> - INCLUDED WITH GAMMA INSTALL</li>
 
   <li><a href="https://github.com/andtheherois/3DSS-EFT-Weapons-pack/releases">
     3DSS-EFT MK47, MP155 Ultima, MK14 SASS</a></li>
@@ -150,7 +131,7 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
     3DSS-LEWD-FAMAS-ATHI-Edit</a></li>    
 
   <li><a href="https://github.com/andtheherois/3DS-ISG-AK-Makeover/releases">
-    3DSS-ISG-AK-Makeover</a></li>
+    3DSS-ISG-AK-Makeover</a> - INCLUDED WITH GAMMA INSTALL</li>
 
   <li><a href="https://github.com/andtheherois/3DSS-HOWA20-Makeover/releases">
     3DSS-HOWA20-Makeover</a></li>
@@ -159,9 +140,27 @@ DO NOT USE THE MODDB VERSION OF THIS MOD. IT IS HIGHLY OUT OF DATE AND I AM TOO 
     3DSS-M4-Tactical-Reanimation-and-Remodel</a></li>
 
   <li><a href="https://github.com/andtheherois/3DSS-M98B-Reanimation/releases">
-    3DSS-M98B-Reanimation</a></li>       
+    3DSS-M98B-Reanimation</a> - INCLUDED WITH GAMMA INSTALL</li>       
 </ul>
 
+<h1><u> Dependencies </u></h1>
+Follow these steps before installing 3DSS for GAMMA. The install guide is further below. This is a test to see if you can read.
+
+NOTE: After GAMMA's 0.9.3 update, none of these steps will be necesseray as this will all be default in GAMMA. Updated will be the same as installing any other mod. For now just deal with the process. or wait until December's update if it's too much.
+
+<ol>
+  <li><a href="https://github.com/andtheherois/Mark-Switch-10-GAMMA-ver./releases">Mark Switch</a> Install through MO2 like any other mod. This should be loaded before 3DSSG. </li>
+  <li><a href="https://drive.google.com/file/d/1_l5pFjFpcDJueh9FRohRJwJSgtSV5azh/view">Meowie's scope textures</a> Install through MO2 like any other mod. Load after 3DSS. </li>
+  <li><a href="https://github.com/themrdemonized/xray-monolith">Latest Version of Demonized modded EXEs</a> </li>
+  <li>DISABLE **137 - Auto-Zoomed Out Scope Draw - Demonized** IN MO2</li>
+  <li>DISABLE **342 - Desert Eagle Gunslinger Port - Dizmok & Pieuvre** IN MO2. Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-eagle-re-animated">Desert Eagle Reanimated by TheShinyHaxorus.</a> Make sure it loads after 271 - GAMMA Large Files (lower on the mod list).</li>
+  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/ak-reanimation-moddb-release">AK Family Reanimation Reanimated by NickolasNikova.</a> Make sure it loads after 271 - GAMMA Large Files (lower on the mod list).</li>
+  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/desert-tech-mdr-pack">Desert Tech MDR Pack by Bert and Andtheherois.</a> Make sure it loads BEFORE 3DSS.</li>
+  <li>Install <a href="https://www.moddb.com/mods/stalker-anomaly/addons/brn-180-assault-rifle">BRN-180 AR by Juan Jmerc.</a> Make sure it loads BEFORE 3DSS.</li>
+</ol>
+
+## Prerequisites
+Make sure you have completed all the steps from the **Dependencies** section before proceeding.
 
 # Installation Guide for 3D Shader Scopes (3DSS) in GAMMA
 
